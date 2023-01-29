@@ -1,0 +1,5 @@
+okunacak dosya "doc" klasoru icinde olmalı Test'te ismi belirtilmelidir
+
+Test te kullanilan yapi:   string path = "doc/gulenyuz.txt";  
+
+varsayılan olarak "gulenyuz.txt" olarak ayarlanmistir 
